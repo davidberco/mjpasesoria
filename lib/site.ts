@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "MJP Asesoria website",
+  name: "MJP Asesoria",
   url: "https://mjpasesoria.com",
   description:
     "Website oficial de MJP Asesoria, dirigida por María José Proaño, experimentada profesional y capacitadora en el ámbito de la contratación pública.",
