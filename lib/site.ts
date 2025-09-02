@@ -1,8 +1,8 @@
 export const siteConfig = {
-  name: "Magic UI Blog",
-  url: "https://blog-magicui.vercel.app",
+  name: "MJP Asesoria website",
+  url: "https://mjpasesoria.com",
   description:
-    "Modern React and web development tutorials, insights, and best practices.",
+    "Website oficial de MJP Asesoria, dirigida por María José Proaño, experimentada profesional y capacitadora en el ámbito de la contratación pública.",
 };
 
 export type SiteConfig = typeof siteConfig;

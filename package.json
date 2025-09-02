@@ -1,7 +1,8 @@
 {
-  "name": "blog-template",
-  "version": "0.1.0",
+  "name": "mjp-asesoria",
+  "version": "0.0.1",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "fumadocs-mdx && next dev --turbopack",
     "build": "fumadocs-mdx && next build",

@@ -1,3 +1,5 @@
+# Repo For web development for a blog project client: MJP asesoria
+
 # MagicUI Blog
 
 A modern, responsive blog built with Next.js 15, Fumadocs MDX, and Tailwind CSS. Beautiful interface for displaying articles, tutorials, and insights about React and modern web development.
@@ -35,13 +37,13 @@ Create a new MDX file in `blog/content/` with format `your-post-title.mdx`:
 
 ````mdx
 ---
-title: "Your Blog Post Title"
-description: "A brief description of your post"
-date: "2024-12-01"
-tags: ["React", "Next.js", "Tutorial"]
+title: 'Your Blog Post Title'
+description: 'A brief description of your post'
+date: '2024-12-01'
+tags: ['React', 'Next.js', 'Tutorial']
 featured: true
-readTime: "10 min read"
-author: "Your Name"
+readTime: '10 min read'
+author: 'Your Name'
 ---
 
 Your blog post content here...
@@ -83,20 +85,20 @@ Add your author details to the `lib/authors.ts` file.
 // lib/authors.ts
 export const authors: Record<string, Author> = {
   dillion: {
-    name: "Dillion Verma",
-    position: "Software Engineer",
-    avatar: "/authors/dillion.png",
+    name: 'Dillion Verma',
+    position: 'Software Engineer',
+    avatar: '/authors/dillion.png',
   },
   arghya: {
-    name: "Arghya Das",
-    position: "Design System Engineer",
-    avatar: "/authors/arghya.png",
+    name: 'Arghya Das',
+    position: 'Design System Engineer',
+    avatar: '/authors/arghya.png',
   },
   // Add your author details here
   yourname: {
-    name: "Your Full Name",
-    position: "Your Position/Title",
-    avatar: "/authors/your-avatar.png",
+    name: 'Your Full Name',
+    position: 'Your Position/Title',
+    avatar: '/authors/your-avatar.png',
   },
 } as const;
 ```

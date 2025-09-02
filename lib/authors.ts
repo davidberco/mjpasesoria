@@ -15,6 +15,11 @@ export const authors: Record<string, Author> = {
     position: "Design System Engineer",
     avatar: "/authors/arghya.png",
   },
+  majo: {
+    name: "María José Proaño",
+    position: "Consultora en Contratación Pública",
+    avatar: "/authors/majo.png",
+  },
 } as const;
 
 export type AuthorKey = keyof typeof authors;

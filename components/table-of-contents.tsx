@@ -161,7 +161,7 @@ export function TableOfContents({ className }: TableOfContentsProps) {
   return (
     <div className={cn("space-y-2", className)}>
       <h4 className="text-sm font-semibold text-foreground mb-4">
-        On this page
+        Contenido: 
       </h4>
       <nav>
         <ul className="space-y-2">

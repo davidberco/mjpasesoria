@@ -89,10 +89,10 @@ export default async function HomePage({
         <div className="max-w-7xl mx-auto w-full">
           <div className="flex flex-col gap-2">
             <h1 className="font-medium text-4xl md:text-5xl tracking-tighter">
-              Magic UI Blog
+              MJP Asesoría
             </h1>
             <p className="text-muted-foreground text-sm md:text-base lg:text-lg">
-              Latest news and updates from Magic UI.
+              El mundo de la contratación pública, en un solo sitio. Artículos legales y publicaciones. Novedades sobre normativa y cambios legales oficiales.
             </p>
           </div>
         </div>

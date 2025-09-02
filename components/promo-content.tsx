@@ -22,10 +22,10 @@ export function PromoContent({
           />
           <div className="flex-1 min-w-0">
             <p className="text-xs font-medium text-foreground/90 truncate">
-              Try Magic UI Pro
+              Tu publicidad Aquí
             </p>
             <p className="text-xs text-muted-foreground truncate">
-              Beautiful design system
+              Contáctanos
             </p>
           </div>
           <a
@@ -52,11 +52,10 @@ export function PromoContent({
         />
         <div className="flex flex-col gap-1">
           <h3 className="text-lg font-semibold tracking-tighter">
-            Try Magic UI Pro
+            Tu publicidad Aquí
           </h3>
           <p className="text-sm text-muted-foreground">
-            Magic UI Pro is a design system for building beautiful and
-            responsive web applications.
+            Contáctanos para visibilizar tu marca. Este espacio está disponible
           </p>
         </div>
       </div>
